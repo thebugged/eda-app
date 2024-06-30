@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="" target="_blank">
+    <a href="https://eda--app.streamlit.app/" target="_blank">
       <img src="https://github.com/thebugged/eda-app/assets/74977495/b78e3d25-7313-463f-89f4-9c7d5f5166c1" alt="Banner">
     </a>
   <br />
@@ -58,4 +58,4 @@ streamlit run mainapp.py
 
 The application will be available in your browser at http://localhost:8501.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://eda--app.streamlit.app/)
