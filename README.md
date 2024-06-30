@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="" target="_blank">
-      <img src="" alt="Banner">
+      <img src="https://github.com/thebugged/eda-app/assets/74977495/b78e3d25-7313-463f-89f4-9c7d5f5166c1" alt="Banner">
     </a>
   <br />
 
