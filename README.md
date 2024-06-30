@@ -18,6 +18,7 @@
 
    <div align="center">
      An application for analyzing datasets (CSV, Excel); visualize data distributions, uncover correlations, and view insightful summaries with ease.
+   </div>
 </div>
 <br/>
 
